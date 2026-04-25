@@ -9,5 +9,9 @@ Los comandos del Makefile funcionarán en Linux y MacOS. En caso de usar Windows
 ## Ejecución
 
 python3 main.py <filename> <dup>
-  filename: **ruta** al fichero que contiene la lista de palabras, una por línea
-  dup: **yes|no**, yes para eliminar palabras duplicadas, no para mantener la lista
+filename: **ruta** al fichero que contiene la lista de palabras, una por línea
+dup: **yes|no**, yes para eliminar palabras duplicadas, no para mantener la lista
+
+## creacion de rama por parte del administrador para realizar un cambio y generar una PR
+
+Para el desarrollo de la actividad el administrador debe crear una nueva rama, generar un cambio (en este caso, este es el cambio), y generar una Pull Request para agregar a la rama principal.
